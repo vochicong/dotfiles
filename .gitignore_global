@@ -1,0 +1,13 @@
+# git config --global core.excludesfile ~/.gitignore_global
+
+*~
+*.log
+.DS_Store*
+._*
+.Trashes
+
+*.iml
+
+.*
+!.dockerignore
+!.gitignore
