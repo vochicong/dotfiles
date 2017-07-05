@@ -5,9 +5,13 @@
 .DS_Store*
 ._*
 .Trashes
+*.pyc
 
 *.iml
 
 .*
 !.dockerignore
+!.editorconfig
 !.gitignore
+
+!.travis.yml
