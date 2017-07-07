@@ -9,9 +9,4 @@
 
 *.iml
 
-.*
-!.dockerignore
-!.editorconfig
-!.gitignore
-
-!.travis.yml
+.env*
