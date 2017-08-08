@@ -6,7 +6,14 @@
 ._*
 .Trashes
 *.pyc
+.cache
+tmp*
+.ipynb_checkpoints
+*.swp
 
 *.iml
+.idea
+.vscode
 
 .env*
+!*sample*
