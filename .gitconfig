@@ -1,0 +1,6 @@
+[user]
+	email = kongvc@gmail.com
+	name = Cong
+[core]
+	excludesfile = /home/chronos/user/.gitignore_global
+	pager = more
