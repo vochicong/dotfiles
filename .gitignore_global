@@ -1,7 +1,7 @@
 # git config --global core.excludesfile ~/.gitignore_global
 
 *~
-*.log
+*.log*
 .DS_Store*
 ._*
 .Trashes
@@ -17,3 +17,4 @@ tmp*
 
 .env*
 !*sample*
+.byebug_history
